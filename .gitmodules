@@ -16,3 +16,6 @@
 [submodule "nginx-optimized-debug-disable-opcache"]
 	path = nginx-optimized-debug-disable-opcache
 	url = git@github.com:omrqs/performance-example-nginx-optimized-debug-disable-opcache.git
+[submodule "reactphp-debug-disable-opcache"]
+	path = reactphp-debug-disable-opcache
+	url = git@github.com:omrqs/performance-example-reactphp-debug-disable-opcache.git
