@@ -4,3 +4,6 @@
 [submodule "performance-example-builtin-debug-disable-opcache"]
 	path = performance-example-builtin-debug-disable-opcache
 	url = git@github.com:omrqs/performance-example-builtin-debug-disable-opcache.git
+[submodule "builtin-debug-disable-opcache"]
+	path = builtin-debug-disable-opcache
+	url = git@github.com:omrqs/performance-example-builtin-debug-disable-opcache.git
