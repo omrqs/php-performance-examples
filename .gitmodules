@@ -19,3 +19,6 @@
 [submodule "reactphp-debug-disable-opcache"]
 	path = reactphp-debug-disable-opcache
 	url = git@github.com:omrqs/performance-example-reactphp-debug-disable-opcache.git
+[submodule "reactphp-default-debug-disable"]
+	path = reactphp-default-debug-disable
+	url = git@github.com:omrqs/performance-example-reactphp-default-debug-disable.git
