@@ -10,3 +10,6 @@
 [submodule "nginx-default-debug-disable"]
 	path = nginx-default-debug-disable
 	url = git@github.com:omrqs/performance-example-nginx-default-debug-disable.git
+[submodule "nginx-optimized-debug-disable"]
+	path = nginx-optimized-debug-disable
+	url = git@github.com:omrqs/performance-example-nginx-optimized-debug-disable.git
