@@ -1,0 +1,3 @@
+[submodule "builtin-debug-disable"]
+	path = builtin-debug-disable
+	url = git@github.com:omrqs/performance-example-builtin-debug-disable.git
