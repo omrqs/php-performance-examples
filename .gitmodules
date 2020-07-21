@@ -13,3 +13,6 @@
 [submodule "nginx-optimized-debug-disable"]
 	path = nginx-optimized-debug-disable
 	url = git@github.com:omrqs/performance-example-nginx-optimized-debug-disable.git
+[submodule "nginx-optimized-debug-disable-opcache"]
+	path = nginx-optimized-debug-disable-opcache
+	url = git@github.com:omrqs/performance-example-nginx-optimized-debug-disable-opcache.git
